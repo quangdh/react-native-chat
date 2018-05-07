@@ -59,7 +59,8 @@ const styles = StyleSheet.create({
     paddingTop: Constants.statusBarHeight
   },
   messages: {
-    alignSelf: 'stretch'
+    alignSelf: 'stretch',
+    flex:1
   },
   input: {
     alignSelf: 'stretch'
