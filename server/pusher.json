@@ -1,8 +1,8 @@
 {
-    "appId":"SOME_APP_ID",
-    "key":"SOME_APP_KEY",
-    "secret":"SOME_APP_SECRET",
+    "appId":"ahihi1",
+    "key":"v1:us1:94cfde9b-0664-4048-abf5-20b2128345c1",
+    "secret":"31572bf5-c6db-4bb9-a7bd-0ed1edfb0f0d:gPwjHr4QJFiDJUyUyQVFOADgbh58idDm2bBxSpEzYPI=",
     "cluster":"eu",
     "encrypted":true,
-    "restServer":"http://192.168.32.101:4000"
+    "restServer":"https://secure-brook-57863.herokuapp.com"
 }
